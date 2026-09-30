@@ -1,56 +1,13 @@
-💰 PocketSmart AI
+⚖️ LegalEase AI
 
-Your Smart Budget & Recommendation Assistant 🤖
+LegalEase AI is an AI-powered legal assistance platform designed to make general legal information easier to understand and access. Legal documents and legal terminology can often be difficult for ordinary users to understand. LegalEase AI uses Artificial Intelligence and Large Language Models (LLMs) to process user queries and provide simple, easy-to-understand information. The main objective of this project is to reduce the complexity of accessing general legal information through a simple and user-friendly digital platform.
 
-PocketSmart AI is an AI-powered budget and recommendation assistant designed to help users make smart and practical decisions based on their budget, requirements, and preferences.
+The project combines a user-friendly frontend, backend APIs, and AI/LLM integration to create an interactive legal assistance system. Users can enter general legal queries and receive AI-generated responses in a simplified format. The system is designed to demonstrate how Generative AI can be practically applied in the legal domain to improve accessibility and understanding of general legal information.
 
-📌 About the Project
+LegalEase AI was developed using technologies such as Python, FastAPI, HTML, CSS, JavaScript, and Generative AI/LLM APIs. The project was developed and tested using Visual Studio Code, with Git and GitHub used for project version control and repository management. The application follows a workflow where the user submits a query through the interface, the request is processed by the backend, the AI model generates a response, and the simplified information is displayed to the user.
 
-Managing a budget and selecting suitable options can be difficult. PocketSmart AI simplifies this process by taking the user's requirements and budget as input and providing relevant recommendations.
+The development of LegalEase AI was carried out through different phases, including Brainstorming and Ideation, Requirement Analysis, Project Design, Project Planning, Project Development, Project Testing, Project Documentation, and Project Demonstration. Each phase contributed to developing and organizing the project systematically.
 
-✨ Key Features
+LegalEase AI demonstrates the practical use of Artificial Intelligence in simplifying general legal information. It provides an accessible way for users to interact with AI and understand basic legal concepts more easily. The project can be further enhanced in the future with features such as multilingual support, voice-based queries, advanced document analysis, legal document summarization, chat history, user authentication, and mobile application support.
 
-- 💰 Budget-based recommendations
-- 🤖 AI-powered assistance
-- 🎯 Personalized suggestions
-- 📊 Simple budget planning
-- ⚡ Quick and easy results
-- 🖥️ User-friendly interface
-
-🔄 How It Works
-
-1. Enter your budget.
-2. Provide your requirements or preferences.
-3. PocketSmart AI analyzes the input.
-4. The system generates suitable recommendations.
-5. Users can make informed budget-friendly decisions.
-
-🎯 Project Objective
-
-The main objective of PocketSmart AI is to combine Artificial Intelligence and budget management to provide users with simple, personalized, and useful recommendations.
-
-🌟 Benefits
-
-- Saves time
-- Helps control spending
-- Provides personalized suggestions
-- Makes decision-making easier
-- Supports smart budget planning
-
-🔮 Future Enhancements
-
-- Expense tracking
-- Spending analytics
-- Budget alerts
-- User profiles
-- Recommendation history
-- Mobile application
-- Improved AI personalization
-
-🛠️ Project Type
-
-AI-Based Budget & Recommendation Assistant
-
-🚀 PocketSmart AI
-
-«Smart Budget. Smart Choices. Smarter You.»
+Disclaimer: LegalEase AI is intended only for general informational assistance and should not be considered a substitute for professional legal advice. Users should consult a qualified legal professional for advice regarding specific legal situations.
